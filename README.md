@@ -1,16 +1,40 @@
-# space_app
+# 🚀 Space App – Flutter
 
-A new Flutter project.
+**Space App** is a visually engaging Flutter application that allows users to explore fascinating content about planets and space.  
+Designed with a clean UI and smooth animations, the app provides detailed information about the solar system in an interactive format.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 List of all planets with names, images, and details
+- 🪐 Interactive planet details screen
+- 🎨 Modern and responsive UI
+- ✨ Smooth animations and transitions
+- 🌓 Dark and Light theme support
+- 🔤 Multi-language ready (Arabic / English)
+- 🧱 Clean code and modular structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Tech Stack
+
+| Layer            | Technology                 |
+|------------------|-----------------------------|
+| Language         | Dart                        |
+| Framework        | Flutter                     |
+| State Management | Provider / Cubit (optional) |
+| UI Design        | Material Design             |
+| Animation        | AnimatedContainer, Hero, etc. |
+| Tools            | Git, GitHub, Android Studio |
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+
+- Flutter SDK
+- Android Studio or VS Code
+
+
