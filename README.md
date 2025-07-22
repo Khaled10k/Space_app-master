@@ -34,7 +34,7 @@ Designed with a clean UI and smooth animations, the app provides detailed inform
 
 ### Requirements
 
-- Flutter SDK
-- Android Studio or VS Code
+-- Flutter SDK
+-- Android Studio or VS Code
 
 
